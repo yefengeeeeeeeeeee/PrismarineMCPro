@@ -17,7 +17,6 @@ Some of the extended functionality that Prismarine offers:
 * Potions, Splash Potions and Brewing
 * Better Crafting
 * Enchantment effects
-* FolderPluginLoader
 * Synapse Client support
 * Settingable Hunger support
 * More attributes and AttributeMap system
