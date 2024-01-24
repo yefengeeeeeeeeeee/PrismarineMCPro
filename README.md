@@ -5,7 +5,7 @@ __Feature-rich server software for Minecraft: Pocket Edition 0.12.3__
 
 Introduction
 -------------
-PrismarineMCPro-0.12 is a fork of **[Genisys]([https://github.com/iTXTech/Genisys])** and most of the original code was written by **PocketMine Team** and our team a long time ago.<br>
+PrismarineMCPro-0.12 is a fork of **[Genisys](https://github.com/iTXTech/Genisys)** and most of the original code was written by **PocketMine Team** and our team a long time ago.<br>
 Some of the extended functionality that Prismarine offers:
 
 * Add supporting to Minecraft PE 0.13.0 & 0.13.2
