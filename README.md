@@ -9,6 +9,8 @@ PrismarineMCPro-0.12 is a fork of **[Genisys](https://github.com/iTXTech/Genisys
 Some of the extended functionality that Prismarine offers:
 
 * Add supporting to Minecraft PE 0.13.0 & 0.13.2
+* EnchantmentTable UI Fix
+* BrewingStand UI Fix
 * Weather
 * Experience
 * Nether
